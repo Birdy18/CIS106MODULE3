@@ -1,0 +1,14 @@
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\bin\Debug\net8.0\CIS106MODULE3.exe
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\bin\Debug\net8.0\CIS106MODULE3.deps.json
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\bin\Debug\net8.0\CIS106MODULE3.runtimeconfig.json
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\bin\Debug\net8.0\CIS106MODULE3.dll
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\bin\Debug\net8.0\CIS106MODULE3.pdb
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.AssemblyInfoInputs.cache
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.AssemblyInfo.cs
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.csproj.CoreCompileInputs.cache
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.dll
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\refint\CIS106MODULE3.dll
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.pdb
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\CIS106MODULE3.genruntimeconfig.cache
+C:\Users\trevo\OneDrive - North Central Michigan College\Desktop\CIS106PROJECTS\CIS106MODULE3\obj\Debug\net8.0\ref\CIS106MODULE3.dll
