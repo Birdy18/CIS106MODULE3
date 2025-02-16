@@ -23,7 +23,7 @@ choice = Convert.ToInt16(Console.ReadLine());
 switch(choice)
 {
     case 1:
-        AddInventory.AddToInventoryList(bookList);
+        Inventory.AddToInventoryList(bookList);
         DisplayInventory.CreateInventoryList(bookList);
         break;
     case 2:
@@ -34,7 +34,6 @@ switch(choice)
         break;
     case 4:
         DeleteBook.DeleteBookFromInventory(bookList);
-        DisplayInventory.CreateInventoryList(bookList);
         break;
     case 5:
         Console.WriteLine("Have a good day!");
