@@ -9,6 +9,14 @@ List<Book> bookList = new List<Book>
         authorName = "Charmy Bee",
         bookGenre = "Education",
         bookID = 2233
+    },
+
+    new()
+    {
+        bookTitle = "How to Date a Skyscraper",
+        authorName = "Horn E. Mann",
+        bookGenre = "Romance/Slasher",
+        bookID = 5432
     }
 };
 
@@ -23,17 +31,17 @@ choice = Convert.ToInt16(Console.ReadLine());
 switch(choice)
 {
     case 1:
-        Inventory.AddToInventoryList(bookList);
-        DisplayInventory.CreateInventoryList(bookList);
+        Book_Manager.AddToInventoryList(bookList);
+        Book_Manager.CreateInventoryList(bookList);
         break;
     case 2:
-        DisplayInventory.CreateInventoryList(bookList);
+        Book_Manager.CreateInventoryList(bookList);
         break;
     case 3:
-        IDInventory.ViewInventoryByID(bookList);
+        Book_Manager.ViewInventoryByID(bookList);
         break;
     case 4:
-        DeleteBook.DeleteBookFromInventory(bookList);
+        Book_Manager.DeleteBookFromInventory(bookList);
         break;
     case 5:
         Console.WriteLine("Have a good day!");
