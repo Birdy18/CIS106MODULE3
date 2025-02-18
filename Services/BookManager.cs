@@ -7,11 +7,12 @@ namespace CIS106MODULE3.Services
         {
             foreach(Book parameters in inventory)
             {
+                Console.WriteLine("---------------------------------\n");
                 Console.WriteLine($"Title: {parameters.bookTitle}");
                 Console.WriteLine($"Author: {parameters.authorName}");
                 Console.WriteLine($"Genre: {parameters.bookGenre}");
                 Console.WriteLine($"ID: {parameters.bookID}");
-                break;
+                Console.WriteLine("---------------------------------\n");
             }
         }
 
@@ -47,7 +48,7 @@ namespace CIS106MODULE3.Services
                     break;
                 } else {
                     inventory.Remove(book);
-                    Console.WriteLine(inventory.Contains(book)); 
+                    break;
                 }
             }
         }

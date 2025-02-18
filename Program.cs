@@ -42,6 +42,7 @@ switch(choice)
         break;
     case 4:
         Book_Manager.DeleteBookFromInventory(bookList);
+        Book_Manager.CreateInventoryList(bookList);
         break;
     case 5:
         Console.WriteLine("Have a good day!");
