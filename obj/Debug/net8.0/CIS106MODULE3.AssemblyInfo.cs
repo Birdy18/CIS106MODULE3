@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CIS106MODULE3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1e9be79277f6ff1e44cefd5562941ae8979cdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cc47fe78c720790fb893babaefed61abc65fa0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CIS106MODULE3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CIS106MODULE3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
