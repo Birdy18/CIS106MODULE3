@@ -3,6 +3,10 @@ namespace CIS106MODULE3.Services
 {
     static class Book_Manager
     {
+        /// <summary>
+        /// This function is used to view the contents of a book
+        /// </summary>
+        /// <param name="inventory"></param>
         public static void CreateInventoryList(List<Book> inventory)
         {
             foreach(Book parameters in inventory)
@@ -16,6 +20,10 @@ namespace CIS106MODULE3.Services
             }
         }
 
+        /// <summary>
+        /// This function is used to add books to the inventory
+        /// </summary>
+        /// <param name="inventory"></param>
         public static void AddToInventoryList(List<Book> inventory)
         {
             Console.WriteLine("What is the name of the book?");
@@ -36,6 +44,10 @@ namespace CIS106MODULE3.Services
             inventory.Add(addBook);
         }
 
+        /// <summary>
+        /// This function is used to delete unwanted books from the inventory
+        /// </summary>
+        /// <param name="inventory"></param>
         public static void DeleteBookFromInventory(List<Book> inventory)
         {
             Console.WriteLine("Please type in the ID of the book you want to delete");
@@ -53,6 +65,10 @@ namespace CIS106MODULE3.Services
             }
         }
 
+        /// <summary>
+        /// This function is used to view the inventory
+        /// </summary>
+        /// <param name="inventory"></param>
         public static void ViewInventoryByID(List<Book> inventory)
         {
             Console.WriteLine("Please type in the ID of the book you need: ");
